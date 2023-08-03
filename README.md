@@ -1,5 +1,5 @@
 
-![MasterHead](https://images.unsplash.com/photo-1592609931095-54a2168ae893?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8amF2YXNjcmlwdHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80)
+![MasterHead](https://st1.myideasoft.com/idea/ct/82/myassets/blogs/javascript-kutuphane-platform.jpg?revision=1581981834)
 <h1 align="center">Hi 👋, I'm Alev</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
