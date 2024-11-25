@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Alev</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">About me: </h3>
+<p align="left"> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
