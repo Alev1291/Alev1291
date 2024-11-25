@@ -1,5 +1,4 @@
-<p width="600px" height="300px>
-![MasterHead](https://st1.myideasoft.com/idea/ct/82/myassets/blogs/javascript-kutuphane-platform.jpg?revision=1581981834) </p>
+![MasterHead](https://st1.myideasoft.com/idea/ct/82/myassets/blogs/javascript-kutuphane-platform.jpg?revision=1581981834)
 <h1 align="center">Hi 👋, I'm Alev</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
